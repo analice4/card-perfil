@@ -1,0 +1,98 @@
+
+body{
+    margin: 250px 200px;
+    padding: 0;
+}
+
+.card-container{
+    width: 350px;
+    height: 500px;
+    background: #fff;
+    border-radius: 6px;
+    justify-content: center;
+    transform: translate(-50%, -50%);
+    box-shadow: 0 1px 5px 1px rgba(0, 0, 0, 0.3);
+}
+
+ .top{
+    border: 200px;
+    width: 350px;
+    height: 200px;
+    border-radius: 6px;
+    margin-top: 100px;
+    background: rgb(165, 46, 201);
+  
+ }
+
+
+.imagem{
+    display: flex;
+    justify-content: center;
+   
+}
+
+.foto{
+   
+    border-radius: 50%;
+    margin-top: 100px;
+}
+
+.nome{
+    text-align: center;
+    color: black;
+    font-weight: 600;
+    font-size: 25px;
+    margin-top: 100px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.cidade{
+    text-align: center;
+    color: black;
+    font-weight: 200;
+    font-size: 25px;
+    margin-top: 10px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.primeiro{
+    padding: 5px;
+    margin: 30px;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.segundo{
+  padding: 5px;
+  margin: 30px;
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.terceiro{
+    padding: 5px;
+    margin: 30px;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.seguidores{
+    padding: 5px;
+    margin: 10px;
+    color: black;
+}
+
+.likes{
+    padding: 5px;
+    margin: 35px;
+    color: black;
+}
+
+.photos{
+    padding: 5px;
+    margin: 30px;
+    color: black;
+}
+
+
+
